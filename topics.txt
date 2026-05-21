@@ -1,0 +1,17 @@
+Already completed topic 
+ - data type
+ - variable Declaration
+ - conditional statement
+ - loop
+ - function
+ - pointer
+
+
+
+Basic Arrays 
+ - Array Declaration & Initialization
+ - Access Array Element (input/print)
+ - Priniting Array Elements (input array)
+ - Update/Modify Array Index Element
+ - Reverse An Array
+ - Sum Of Array Elements etc.
